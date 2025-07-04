@@ -6,6 +6,9 @@ This is a simple calculator built using Python. It can perform basic arithmetic 
 - Subtraction
 - Multiplication
 - Division
+- Floor division
+- Exponentiation
+- Modulus
 
 ## 🚀 Features
 
